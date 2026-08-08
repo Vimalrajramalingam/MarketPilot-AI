@@ -1,5 +1,8 @@
 # MarketPilot AI
 
+[![Deploy to Vercel](https://vercel.com/button)](https://market-pilot-ai-three.vercel.app/)
+**Live Demo:** [https://market-pilot-ai-three.vercel.app/](https://market-pilot-ai-three.vercel.app/)
+
 MarketPilot AI is a full-stack, AI-powered hyper-local grocery and retail discovery platform. It connects local shoppers with nearby vendors, offering real-time inventory tracking, AI assistant shopping recommendations, QR pickup passes, and vendor management tools.
 
 ## Key Features
