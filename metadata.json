@@ -1,0 +1,6 @@
+{
+  "name": "MarketPilot AI",
+  "description": "AI-Powered Hybrid Multi-Vendor Marketplace with Own Pickup, Interactive Maps, Vendor Intelligence, and Gemini Shopping Assistant",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
